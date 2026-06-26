@@ -16,6 +16,11 @@ O projeto consiste na implementação da **Transformada de Taylor-Fourier (TTF)*
 
 Execute o script principal após inserir os arquivos de sinal na pasta `sinais`. O sinal utilizado por padrão é `sinal_4_semruido.csv`
 
-## Autor
+## Autores
+
+- Eduardo A. Paiva
+- Mariana do N. Ferreira
+- Pedro C. Gonzaga
+- Rafael O. de Oliveira
 
 Grupo A4 – Projeto Final da disciplina SEL0615.
